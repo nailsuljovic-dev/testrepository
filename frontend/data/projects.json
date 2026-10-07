@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Task Manager App",
+    "description": "A small to-do application with categories, deadlines and local storage persistence.",
+    "tags": ["JavaScript", "Bootstrap"],
+    "link": "#projects"
+  },
+  {
+    "title": "Graph Algorithms Visualizer",
+    "description": "Interactive visualisation of BFS, DFS and Dijkstra on a user-drawn graph.",
+    "tags": ["Algorithms", "Canvas"],
+    "link": "#projects"
+  },
+  {
+    "title": "Library Management (Java)",
+    "description": "Object-oriented console application with inheritance, interfaces and file I/O.",
+    "tags": ["Java", "OOP"],
+    "link": "#projects"
+  },
+  {
+    "title": "Reactive Stream Demo",
+    "description": "Event streams processed with functional and reactive patterns.",
+    "tags": ["Functional", "Reactive"],
+    "link": "#projects"
+  }
+]
